@@ -1,2 +1,15 @@
 # TechPrototype
-Phase 2 - Technical prototype
+阶段2 —— 技术原型迭代
+
+Duration: 2020.10.12-2020.11.20
+
+Files:
+1. 迭代计划
+2. vision文档
+3. 用例文档
+4. 软件需求规约
+5. 软件架构文档
+6. 编程规范
+7. UML分析和设计模型
+8. 技术原型的代码
+9. 迭代评估报告
